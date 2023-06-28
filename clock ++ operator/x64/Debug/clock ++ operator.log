@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\vs项目\clock ++ operator\clock ++ operator\源.cpp(49): warning C4715: “Yclock::operator++”: 不是所有的控件路径都返回值
+  clock ++ operator.vcxproj -> D:\vs项目\clock ++ operator\clock ++ operator\x64\Debug\clock ++ operator.exe
